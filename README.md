@@ -15,7 +15,7 @@ My career at Accenture as a Senior Data Engineering Analyst allowed me to lead s
 - **Programming Languages:** Python, PySpark, SQL, Java, HTML, CSS, JavaScript
 - **Cloud Services:** Azure (Data Factory, Data Lake, Databricks, Logic Apps, Synapse Analytics), AWS (IAM, S3, EC2, AWS Lambda, DynamoDB, Sagemaker)
 - **Tools and Libraries:** PyTorch, Keras, Scikit-learn, NLTK, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Plotly, Power BI, Tableau
-- **Other Skills:** ETL/ELT, Data Wrangling, Data Warehousing, Data Engineering, AI/ML, Agile and DevOps methodologies
+- **Other Skills:** ETL/ELT, Data Wrangling, Data Warehousing, Data Engineering, Data Science, AI/ML, Agile and DevOps methodologies
 
 
 <!---
